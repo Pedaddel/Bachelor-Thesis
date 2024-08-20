@@ -1,7 +1,6 @@
-# Bachelor-Thesis
+# Automated Reaction Center Identification for the Generation of Reaction-Specific Representations in Asymmetric Hydrogenation
 
-This repository serves as the dedicated codebase for my Bachelor's thesis:
-**"Automated Reaction Center Identification for the Generation of Reaction-Specific Representations in Asymmetric Hydrogenation."**
+This repository serves as the dedicated codebase for my Bachelor's thesis
 
 ## Project Overview
 
